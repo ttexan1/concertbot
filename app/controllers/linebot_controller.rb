@@ -37,4 +37,7 @@ class LinebotController < ApplicationController
 
     head :ok
   end
+  def index
+
+  end
 end
